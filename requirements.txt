@@ -9,7 +9,7 @@ coreapi-cli==1.0.9
 coreschema==0.0.4
 cssselect2==0.2.1
 defusedxml==0.5.0
-Django==2.0.6
+Django==2.2.10
 django-filter==1.1.0
 django-guardian==1.4.9
 django-weasyprint==0.5.2

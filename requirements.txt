@@ -28,7 +28,7 @@ pdfrw==0.4
 Pillow==5.1.0
 pycparser==2.18
 pycups==1.9.73
-Pygments==2.2.0
+Pygments==2.7.4
 pyPdf==1.13
 PyPDF2==1.26.0
 Pyphen==0.9.4
